@@ -1,0 +1,31 @@
+Programmer: Dakota Wilson
+  Name     Avg.Score
+____________________________________
+Browning     5.100
+Indians      3.167
+Norabet      9.100
+Bratty       7.467
+Junes        9.333
+Smithson     8.000
+Marshall     4.667
+Johnson      5.200
+Jones        8.600
+Keyes        2.833
+Simmons      8.067
+Williams     8.867
+Nora        10.000
+Hunt         5.867
+Rules        7.000
+Anana        7.000
+Hartley      8.700
+Hoover       6.833
+Casey        7.000
+Hudson       6.600
+Conti        7.533
+Peterson     5.733
+Studious     4.000
+Lasty        8.567
+JT           9.367
+Simon        3.400
+
+The winner is Nora with a score of 10.000!
